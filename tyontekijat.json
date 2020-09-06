@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "firstName": "Mauno",
+      "lastName": "Ahonen",
+      "address": "home street 1",
+      "phone": [
+        {
+          "home": "045054545",
+          "work": "99999"
+        }
+      ]
+    },
+    {
+      "firstName": "Matti",
+      "lastName": "Näsä",
+      "address": "home street 666",
+      "phone": [
+        {
+          "work": "54564654564"
+        }
+      ]
+    },
+    {
+      "firstName": "Raimo",
+      "lastName": "Vormisto",
+      "address": "home street 444"
+    },
+    {
+      "firstName": "Timo",
+      "lastName": "Silakka",
+      "address": "home street 2",
+      "phone": [
+        {
+          "home": "112"
+        }
+      ]
+    }
+  ]
+}
